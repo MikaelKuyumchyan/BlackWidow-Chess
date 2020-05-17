@@ -1,0 +1,13 @@
+Queen.class
+Bishop.class
+Board.class
+Pawn.class
+Main.class
+Rook.class
+Game.class
+BoardUnit.class
+Move.class
+King.class
+Piece.class
+Knight.class
+Alliance.class
